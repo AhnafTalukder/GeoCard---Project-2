@@ -36,7 +36,7 @@ Here's a walkthrough of implemented required features:
 
 ## Notes
 
-I found it difficult to figure out a way to create the flip animation. Fortunately, I found a W3 school article about it and it was nice experimenting with the CSS template they provided. However, for the next project, I would like to implement a sliding animation instead if a flipping one.
+I found it difficult to figure out a way to create the flip animation. Fortunately, I found a W3 school article about it and it was nice experimenting with the CSS template they provided. However, for the next project, I would like to implement a sliding animation instead of a flipping one.
 
 ## License
 
